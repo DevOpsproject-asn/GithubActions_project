@@ -1,2 +1,2 @@
-# GithubActions_project
+# GitHubActions_project
 GitHub Actions Projects 
